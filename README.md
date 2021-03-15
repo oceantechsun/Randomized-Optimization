@@ -1,8 +1,6 @@
 # Randomized-Optimization
 For CS 7641
 
-# Supervised_Learning
-
 Jordan Laurent
 jlaurent6
 Georgia Institute of Technology
